@@ -1,7 +1,8 @@
 # Cancer-Detection-using-ML
+This is an python based ML project which predicts the presence of Brain tumour in human brains.
 ![image](https://user-images.githubusercontent.com/77532204/232719794-9b1359a7-95db-43d4-826a-c8d8d778902c.png)
 
-This is an python based ML project which predicts the presence of Brain tumour in human brains.
+
 In this project we have used 1. numpy
                              2. pandas
                              3. matplotlib
